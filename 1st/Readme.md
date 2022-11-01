@@ -1,5 +1,4 @@
 ### 분석주제
 - 김선경 : 의류 제조 회사 생산성 예측 (https://dacon.io/competitions/official/235986/overview/description)
-- 노영진 : 대도시권 광역교통 빅데이터 분석 시각화 및 활용 아이디어 경진대회 (https://dacon.io/competitions/official/236009/data)
-          ((Ⅱ-2-1) 대중교통 노선 데이터_3_전체DB_2021년3월)
+- 노영진 : 인구 공공데이터 ( www.mois.go.kr(행정안전부) > 정책자료 > 주민등록 인구통계 > 연령별 인구현황)
 - 최수경 : 제주도 도로 교통량 예측 AI 경진대회 (https://dacon.io/competitions/official/235985/overview/description)
